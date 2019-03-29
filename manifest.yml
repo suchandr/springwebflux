@@ -1,0 +1,7 @@
+---
+applications:
+- name: spring-webflux
+  memory: 716M
+  instances: 1
+  path: ./target/spring-mvc-webflux-0.0.1-SNAPSHOT.jar
+  
